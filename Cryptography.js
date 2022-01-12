@@ -7,6 +7,6 @@ function hash(input) {
 }
 
 
-let password = 'hi-mom!';
+let password = 'Hello world';
 const hash1 = hash(password);
 console.log(hash1)
